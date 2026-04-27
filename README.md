@@ -20,11 +20,6 @@ This project is part of my MERN stack learning journey.
 
 ---
 
-## 📸 Screenshot
-
-(Add your project screenshot here)
-
----
 
 ## 📂 How to Use
 
